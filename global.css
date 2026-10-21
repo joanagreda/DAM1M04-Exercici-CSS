@@ -31,3 +31,11 @@ a:hover{
 p.parrafo {
     background-color: orange;
 }   
+
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: blue;
+}
