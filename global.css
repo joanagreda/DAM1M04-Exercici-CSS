@@ -39,3 +39,7 @@ li:first-child {
 li:last-child {
     color: blue;
 }
+#habilidades > li {
+    margin-bottom: 10px;
+    color: green;
+}
